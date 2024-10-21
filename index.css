@@ -1,0 +1,33 @@
+/* index.css */
+
+.container-h2p1 {
+    text-align: center;
+}
+
+.container-h2p1 h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-h2p1 p {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-h2p2 {
+    text-align: center;
+}
+
+.container-h2p2 h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-h2p2 p {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
