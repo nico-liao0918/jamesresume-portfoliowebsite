@@ -11,6 +11,7 @@
 }
 
 .welcome p {
+    text-align: left;
     font-size: 25px;
     margin: 10px;
     padding: 10px;
@@ -27,6 +28,7 @@
 }
 
 .check p {
+    text-align: left;
     font-size: 25px;
     margin: 10px;
     padding: 10px;
