@@ -16,3 +16,36 @@
     padding: 10px;
 }
 
+.container-intro {
+    text-align: center;
+}
+
+.intro h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.intro p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-resume {
+    text-align: center;
+}
+
+.resume h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.resume p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
