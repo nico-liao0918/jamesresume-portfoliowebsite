@@ -1,0 +1,33 @@
+/* index.css */
+
+.container-welcome {
+    text-align: center;
+}
+
+.container-welcome h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-welcome p {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-check {
+    text-align: center;
+}
+
+.container-check h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-check p {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
