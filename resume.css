@@ -1,0 +1,198 @@
+/* resume.css */
+
+.container-resume {
+    text-align: center;
+}
+
+.resume h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.resume p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-summary {
+    text-align: center;
+}
+
+.summary h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.summary p {
+    text-align: justify;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-work {
+    text-align: center;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.work1 {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.work1 h3 {
+    font-size: 35px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.work1 h4 {
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.work1 ul li {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.work2 {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.work2 h3 {
+    font-size: 35px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.work2 h4 {
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.work2 ul li {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.container-skill {
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.skill1 {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.skill2 {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.skill1 h3 {
+    font-size: 35px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.skill1 ul li {
+    text-align: left;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.skill2 h3 {
+    font-size: 35px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.skill2 ul li {
+    text-align: left;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.container-certs {
+    text-align: center;
+}
+
+.certs {
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.certs h3 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.certs h4 {
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.certs p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-down {
+    text-align: center;
+}
+
+.down {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
