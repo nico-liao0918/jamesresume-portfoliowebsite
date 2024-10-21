@@ -1,0 +1,100 @@
+/* global.css */
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    text-align: center;
+    font-family: Arial;
+    background-color: darkgreen;
+    color: black;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header p {
+    margin: 12px;
+}
+
+/* Default Styles for Navigation */
+nav {
+    background-color: darkgreen;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: darkgreen;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: lightgreen;
+}
+
+/* General Styles for Mobile and Desktop */
+.hamburger {
+    display: none;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 25px;
+}
+
+.bar {
+    width: 30px;
+    height: 3px;
+    background-color: darkslategray;
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+}
+
+footer a {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
