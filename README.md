@@ -28,7 +28,7 @@ No installation or special setup is required. Simply navigate to the website in 
 Instructions for Use
 The website is designed to be self-explanatory. Simply navigate through the sections to explore my portfolio, view my resume, or access my business information.
 
-The live site will be available on GitHub Pages (link will be provided once live).
+The live site will be available on GitHub Pages [James Resume and Portfolio Website](https://nico-liao0918.github.io/jamesresume-portfoliowebsite/).
 
 ## Contact Info and Credits
 For inquiries, please visit the website, where you can find my contact information.
