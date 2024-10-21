@@ -37,4 +37,4 @@ For inquiries, please visit the website, where you can find my contact informati
 A special thanks to SuperSimpleDev for their invaluable resources in learning HTML and CSS. The course that significantly aided my development skills can be found here:
 
 YouTube Video Title: HTML & CSS Full Course
-YouTube Link: HTML & CSS Full Course
+YouTube Link: [HTML & CSS Full Course](https://youtu.be/G3e-cpL7ofc?si=ovBNj8LTaX_qMv90)
