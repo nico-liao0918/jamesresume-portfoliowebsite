@@ -147,7 +147,7 @@
 }
 
 .certs {
-    text-align: left;
+    text-align: center;
     margin: 10px;
     padding: 10px;
 }
@@ -163,7 +163,6 @@
 }
 
 .certs p {
-    text-align: left;
     margin: 10px;
     padding: 10px;
 }
