@@ -1,0 +1,88 @@
+/* portfolio.css */
+
+.container-portfolio {
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.portfolio p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-current {
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.business {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.business h4 {
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.business ul li {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-done {
+    text-align: center;
+}
+
+.resume {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.resume h4 {
+    font-size: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.resume ul li {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.container-down {
+    text-align: center;
+}
+
+.down {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
