@@ -20,6 +20,24 @@
     text-align: center;
 }
 
+.none {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+}
+
+.none h4 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.none p{
+    margin: 10px;
+    padding: 10px;
+}
+
 .title {
     margin: 10px;
     padding: 10px;
