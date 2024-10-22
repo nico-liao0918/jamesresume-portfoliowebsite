@@ -5,14 +5,12 @@
 }
 
 .resume h2 {
-    font-size: 40px;
     margin: 10px;
     padding: 10px;
 }
 
 .resume p {
     text-align: left;
-    font-size: 25px;
     margin: 10px;
     padding: 10px;
 }
@@ -22,14 +20,12 @@
 }
 
 .summary h2 {
-    font-size: 40px;
     margin: 10px;
     padding: 10px;
 }
 
 .summary p {
     text-align: justify;
-    font-size: 25px;
     margin: 10px;
     padding: 10px;
 }
@@ -44,7 +40,6 @@
 }
 
 .title {
-    font-size: 40px;
     margin: 10px;
     padding: 10px;
 }
@@ -58,13 +53,11 @@
 }
 
 .work1 h3 {
-    font-size: 35px;
     margin: 5px;
     padding: 5px;
 }
 
 .work1 h4 {
-    font-size: 30px;
     margin: 5px;
     padding: 5px;
 }
@@ -72,7 +65,6 @@
 .work1 ul li {
     margin: 10px;
     padding: 10px;
-    font-size: 20px;
 }
 
 .work2 {
@@ -84,13 +76,11 @@
 }
 
 .work2 h3 {
-    font-size: 35px;
     margin: 5px;
     padding: 5px;
 }
 
 .work2 h4 {
-    font-size: 30px;
     margin: 5px;
     padding: 5px;
 }
@@ -98,7 +88,6 @@
 .work2 ul li {
     margin: 10px;
     padding: 10px;
-    font-size: 20px;
 }
 
 .container-skill {
@@ -128,7 +117,6 @@
 }
 
 .skill1 h3 {
-    font-size: 35px;
     margin: 5px;
     padding: 5px;
 }
@@ -139,11 +127,9 @@
     margin-left: 10px;
     margin-right: 10px;
     padding: 10px;
-    font-size: 20px;
 }
 
 .skill2 h3 {
-    font-size: 35px;
     margin: 5px;
     padding: 5px;
 }
@@ -154,7 +140,6 @@
     margin-left: 10px;
     margin-right: 10px;
     padding: 10px;
-    font-size: 20px;
 }
 
 .container-certs {
@@ -168,20 +153,17 @@
 }
 
 .certs h3 {
-    font-size: 40px;
     margin: 10px;
     padding: 10px;
 }
 
 .certs h4 {
-    font-size: 30px;
     margin: 5px;
     padding: 5px;
 }
 
 .certs p {
     text-align: left;
-    font-size: 25px;
     margin: 10px;
     padding: 10px;
 }
@@ -192,7 +174,6 @@
 
 .down {
     text-align: left;
-    font-size: 25px;
     margin: 10px;
     padding: 10px;
 }
