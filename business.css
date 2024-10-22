@@ -1,0 +1,45 @@
+/* business.css */
+
+.container-business {
+    text-align: center;
+}
+
+.business h2 {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.business p {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-title {
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container-business {
+    text-align: center
+}
+
+.welcome {
+    text-align: left;
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
